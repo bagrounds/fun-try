@@ -1,0 +1,4 @@
+# [fun-try](https://bagrounds.gitlab.io/fun-try)
+
+Wrap a function that may throw with a function that returns a Task
+
